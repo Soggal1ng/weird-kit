@@ -24,11 +24,12 @@ pause
 echo %input2% Scanned...
 cls
 goto menu
+:: This is only if you have my soggyware file if not then. idk
 :payloadcons
 cls
 echo Starting seperate script...
 timeout /t 2 >nul
-start main.bat
+start soggyware.bat
 cls 
 goto menu
 :fork

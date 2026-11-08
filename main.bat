@@ -66,5 +66,4 @@ cls
 cls
 echo goodbye... %username%
 timeout /t 2 >nul
-start "" https://discord.gg/29uepW58st
 exit /b

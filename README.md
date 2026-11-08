@@ -6,5 +6,3 @@ https://nmap.org
 Everything else should run as normal.
 
 Weekly boring script ig.
-
-join the dc: https://discord.gg/29uepW58st
